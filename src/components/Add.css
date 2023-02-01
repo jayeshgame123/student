@@ -1,0 +1,19 @@
+.Home{
+    align-items: center;
+}
+
+.container{
+    display: grid;
+    align-items: center;
+    
+}
+
+.lab{
+    margin: 0 300px;
+}
+
+.inp{
+    margin: 0 300px;
+}
+
+
